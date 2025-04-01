@@ -3,7 +3,7 @@
 
 Copia el repositorio del github
 ---------------------------------
-
+sudo git clone https://github.com/TekillaSMR/TekillaSMR.git
 
 Instala requests si no lo tienes:
 ---------------------------------
