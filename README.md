@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @TekillaSMR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🛠 Cómo Usarlo:
+------------------
 
-<!---
-TekillaSMR/TekillaSMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Copia el repositorio del github
+---------------------------------
+
+
+Instala requests si no lo tienes:
+---------------------------------
+
+bash
+
+pip install requests
+
+Ejecuta el script e ingresa la URL de la API que deseas analizar:
+----------------------------------------------------------------
+
+bash
+
+python api_scanner.py
+
+El script probará endpoints comunes y generará un reporte JSON con las vulnerabilidades detectadas.
+---------------------------------------------------------------------------------------------------
