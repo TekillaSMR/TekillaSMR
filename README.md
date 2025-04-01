@@ -1,3 +1,14 @@
+Herramienta
+-----------
+escáner de seguridad para APIs en Python. Este script:
+
+✅ Descubre endpoints automáticamente en una API mediante fuzzing de rutas comunes.
+✅ Detecta vulnerabilidades básicas como SQL Injection (SQLi), XSS y SSRF.
+✅ Genera un reporte en formato JSON con los hallazgos.
+
+
+
+
 🛠 Cómo Usarlo:
 ------------------
 
