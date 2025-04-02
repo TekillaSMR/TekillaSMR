@@ -32,3 +32,11 @@ python api_scanner.py
 
 El script probará endpoints comunes y generará un reporte JSON con las vulnerabilidades detectadas.
 ---------------------------------------------------------------------------------------------------
+
+Ejemplo de la Introduccion de la URL de la API objetivo
+-----------------------------------------
+![image](https://github.com/user-attachments/assets/bbdc85a6-a99c-46a1-9e55-1bcf95232682)
+
+[+] Reporte guardado en report.json
+----------------------------------
+![image](https://github.com/user-attachments/assets/f2892490-846a-47dd-be57-ceddbb808f08)
